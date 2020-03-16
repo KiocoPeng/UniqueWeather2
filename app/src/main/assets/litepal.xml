@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="UniqueWeather2"/>
+    <version value="8" />
+    <list>
+        <mapping class="com.example.uniqueweather2.db.Province" />
+        <mapping class="com.example.uniqueweather2.db.City" />
+        <mapping class="com.example.uniqueweather2.db.County" />
+        <mapping class="com.example.uniqueweather2.db.SelectedCounty" />
+        <mapping class="com.example.uniqueweather2.db.CountyChanged" />
+    </list>
+</litepal>
